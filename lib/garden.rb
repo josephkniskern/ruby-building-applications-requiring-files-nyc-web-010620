@@ -1,4 +1,4 @@
-require 
+require './plant.rb'
 
 class Garden
   attr_accessor :name
