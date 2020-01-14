@@ -1,4 +1,4 @@
-# Something is missing here
+require 
 
 class Garden
   attr_accessor :name
